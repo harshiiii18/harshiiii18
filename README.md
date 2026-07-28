@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20Harshita%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
@@ -100,12 +101,14 @@ Full-stack stock trading platform with JWT auth, portfolio management, order tra
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshiiii18&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=harshiiii18&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=86400" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshiiii18&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshiiii18&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshiiii18&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
 
 </div>
+
+<sub>💡 If a card shows "Failed to retrieve contributions," it's a temporary rate-limit on the free public server — just refresh the page after a minute or two. It's not an error in your README.</sub>
 
 ---
 
@@ -117,16 +120,6 @@ Full-stack stock trading platform with JWT auth, portfolio management, order tra
 ![Codeforces](https://img.shields.io/badge/Codeforces-Newbie%20%7C%20Active-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
 
 </div>
-
----
-
-### 📈 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/harshiiii18/harshiiii18/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-<sub>⚙️ To activate the snake animation above, set up the [platane/snk](https://github.com/Platane/snk) GitHub Action in this repo — it auto-generates the snake game from your real contribution graph.</sub>
 
 ---
 
