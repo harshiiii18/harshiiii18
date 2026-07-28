@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20Harshita%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=3rd+Year+IT+Student+%40+MBM+University;Full-Stack+MERN+Developer;DSA+%7C+460%2B+LeetCode+Problems+Solved;Chasing+SDE+Internships+%7C+Summer+2027" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=3rd+Year+IT+Student+%40+MBM+University;Full-Stack+MERN+Developer;DSA+%7C+500%2B+LeetCode+Problems+Solved;Chasing+SDE+Internships+%7C+Summer+2027" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,7 +23,7 @@ name: Harshita Parsendiya
 role: Aspiring SDE | Full-Stack Developer
 education: B.E. Information Technology, MBM University, Jodhpur (3rd Year)
 current_focus: Building & Deploying ConnectSphere (MERN + Socket.IO)
-dsa_grind: 460+ problems on LeetCode | Active on Codeforces
+dsa_grind: 500+ problems on LeetCode | Active on Codeforces
 open_source: GSSoC 2026 Contributor & Ambassador
 achievements:
   - AIR 32, IIT Bombay NEC 2025
