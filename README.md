@@ -68,34 +68,6 @@ fun_fact: Learns best with structured, day-by-day, concept-first plans 🧠
 
 </div>
 
----
-
-### 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**💬 [ConnectSphere](https://github.com/harshiiii18/connectsphere)**
-
-Real-time chat application with JWT auth, live messaging via Socket.IO, MongoDB persistence, and a custom dark UI.
-
-`MongoDB` `Express` `React` `Node.js` `Socket.IO`
-
-</td>
-<td width="50%">
-
-**📈 [Zerodha Clone](https://github.com/harshiiii18/zerodha)**
-
-Full-stack stock trading platform with JWT auth, portfolio management, order tracking, and a responsive dashboard.
-
-`MongoDB` `Express` `React` `Node.js`
-
-</td>
-</tr>
-</table>
-
----
 
 ### 📊 GitHub Analytics
 
