@@ -68,30 +68,8 @@ fun_fact: Learns best with structured, day-by-day, concept-first plans 🧠
 </div>
 
 
-### 📊 GitHub Analytics
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshiiii18&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=86400" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshiiii18&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshiiii18&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
-
-</div>
-
-<sub>💡 If a card shows "Failed to retrieve contributions," it's a temporary rate-limit on the free public server — just refresh the page after a minute or two. It's not an error in your README.</sub>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=harshiiii18&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
-
-</div>
-
----
 
 ### 📈 Contribution Activity
 
@@ -132,9 +110,7 @@ fun_fact: Learns best with structured, day-by-day, concept-first plans 🧠
 
 <div align="center">
 
-### 💭 Currently
 
-🔨 Shipping **ConnectSphere** to production &nbsp;|&nbsp; 📚 Deep in DSA patterns &nbsp;|&nbsp; 🎯 Prepping for Summer 2027 SDE internships
 
 <br/>
 
