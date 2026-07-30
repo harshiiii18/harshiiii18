@@ -93,8 +93,6 @@ fun_fact: Learns best with structured, day-by-day, concept-first plans 🧠
 
 </div>
 
-<sub>⚠️ The snake animation needs a one-time GitHub Action setup in your profile repo (`harshiiii18/harshiiii18`) — instructions below.</sub>
-
 ---
 
 ### 🧩 Problem Solving Journey
