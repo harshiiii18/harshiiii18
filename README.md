@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20Harshita%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
@@ -81,6 +80,42 @@ fun_fact: Learns best with structured, day-by-day, concept-first plans 🧠
 </div>
 
 <sub>💡 If a card shows "Failed to retrieve contributions," it's a temporary rate-limit on the free public server — just refresh the page after a minute or two. It's not an error in your README.</sub>
+
+---
+
+### 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=harshiiii18&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+
+</div>
+
+---
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshiiii18&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+<!--START_SECTION:waka-->
+<!-- WakaTime badge placeholder: connect your WakaTime account and add the badge here if you want coding-hours-per-language stats -->
+<!--END_SECTION:waka-->
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/harshiiii18/harshiiii18/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+<sub>⚠️ The snake animation needs a one-time GitHub Action setup in your profile repo (`harshiiii18/harshiiii18`) — instructions below.</sub>
 
 ---
 
