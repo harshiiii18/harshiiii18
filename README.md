@@ -1,291 +1,183 @@
-<!-- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20Harshi%20&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=3rd+Year+IT+Student+%40+MBM+University;Full-Stack+MERN+Developer;DSA+%7C+500%2B+LeetCode+Problems+Solved;Chasing+SDE+Internships+%7C+Summer+2027" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=HARSHITA%20PARSENDIYA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20Competitive%20Programmer&descAlignY=55&descSize=18&descColor=b8b8ff" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=harshiiii18&label=Profile%20Views&color=58A6FF&style=flat-square" />
-<img src="https://img.shields.io/github/followers/harshiiii18?label=Followers&style=flat-square&color=58A6FF" />
+<a href="mailto:harshitaparsendiya@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-0f0c29?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0f0c29?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LeetCode-View%20Profile-0f0c29?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+<a href="#"><img src="https://img.shields.io/badge/CodeChef-View%20Profile-0f0c29?style=for-the-badge&logo=codechef&logoColor=5B4638" /></a>
 
 </div>
 
----
+<br/>
 
-### 🌟 About Me
+```
+> whoami
 
-```yaml
-name: Harshita Parsendiya
-role: Aspiring SDE | Full-Stack Developer
-education: B.E. Information Technology, MBM University, Jodhpur (3rd Year)
-current_focus: Building & Deploying ConnectSphere (MERN + Socket.IO)
-dsa_grind: 500+ problems on LeetCode | Active on Codeforces
-open_source: GSSoC 2026 Contributor & Ambassador
-achievements:
-  - AIR 32, IIT Bombay NEC 2025
-  - Genpact STEM Her Scholarship (4-year merit)
-  - 3x Indira Priyadarshini Award
-goal: SDE Internship (Summer 2027) with PPO conversion @ product-based companies
-fun_fact: Learns best with structured, day-by-day, concept-first plans 🧠
+Full-stack developer building on the MERN stack, currently architecting
+real-time systems and trading dashboards that don't fall over under load.
+700+ DSA problems deep. Third-year IT student. Building in public.
 ```
 
----
+<br/>
 
-### 🛠️ Tech Arsenal
+## Snapshot
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="150"><b>700+</b><br/><sub>DSA Problems Solved</sub></td>
+<td align="center" width="150"><b>50+</b><br/><sub>Contest Participations</sub></td>
+<td align="center" width="150"><b>AIR 32</b><br/><sub>NEC 2025, IIT Bombay</sub></td>
+<td align="center" width="150"><b>8.0</b><br/><sub>CGPA / 10</sub></td>
+</tr>
+</table>
+
+<br/>
+
+## What I Build
+
+I don't just follow tutorials — I ship things that mimic real production systems. Case in point:
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### 🟢 Zerodha — Stock Trading Platform
+**A full-stack trading dashboard built to behave like the real thing.**
+
+Users manage holdings, positions, funds, and live orders through an interactive dashboard — backed by secure JWT auth and a proper REST layer, not a toy CRUD app.
+
+**Engineering highlights**
+- Designed and shipped RESTful APIs in Express.js for portfolio & order management
+- Modeled user and portfolio data in MongoDB for fast, consistent reads
+- Wired the React frontend to the backend via Axios with clean error handling
+- Deployed frontend on Vercel, backend on Render — real infra, real deployment pipeline
+
+</td>
+<td width="40%" valign="top">
+
+**Stack**
+```
+Frontend   React.js, Bootstrap
+Backend    Node.js, Express.js
+Database   MongoDB
+Auth       JWT
+HTTP       Axios
+Deploy     Vercel + Render
+```
+
+[`View Repo →`](#) &nbsp; [`Live Demo →`](#)
+
+</td>
+</tr>
+</table>
+
+> More builds landing soon — this section grows every time I ship.
+
+<br/>
+
+## Arsenal
+
+<table align="center">
+<tr>
+<td valign="top" width="25%">
 
 **Languages**
-<br/>
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Frontend**
-<br/>
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend & Database**
-<br/>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-
-**Tools**
-<br/>
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
-
-
-
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshiiii18&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
-<!--START_SECTION:waka-->
-<!-- WakaTime badge placeholder: connect your WakaTime account and add the badge here if you want coding-hours-per-language stats -->
-<!--END_SECTION:waka-->
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/harshiiii18/harshiiii18/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-### 🧩 Problem Solving Journey
-
-<div align="center">
-
-![LeetCode](https://img.shields.io/badge/LeetCode-460%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![Codeforces](https://img.shields.io/badge/Codeforces-Newbie%20%7C%20Active-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
-</div> -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Harshita%20Parsendiya&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer%20|%20Full-Stack%20Builder&descAlignY=58&descSize=18" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Aspiring+SDE+%7C+Full-Stack+MERN+Developer;3rd+Year+IT+%40+MBM+University%2C+Jodhpur;500%2B+DSA+Problems+Solved+%7C+Codeforces+Active;Building+ConnectSphere+(MERN+%2B+Socket.IO);Open+to+SDE+Internships+%E2%80%94+Summer+2027" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=harshiiii18&label=Profile%20Views&color=58A6FF&style=flat-square" />
-<img src="https://img.shields.io/github/followers/harshiiii18?label=Followers&style=flat-square&color=58A6FF" />
-<img src="https://img.shields.io/badge/Open%20to-SDE%20Internships-brightgreen?style=flat-square" />
-
 <br/><br/>
+![Python](https://img.shields.io/badge/-Python-2b2b40?style=flat-square&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/-C++-2b2b40?style=flat-square&logo=cplusplus&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/-JavaScript%20(ES6+)-2b2b40?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/-SQL-2b2b40?style=flat-square&logo=postgresql&logoColor=4169E1)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
-
-</div>
-
----
-
-## About Me
-
-I'm a third-year Information Technology student at MBM University, Jodhpur, building toward a career as a Software Development Engineer. I focus on full-stack engineering with the MERN stack and back it with a strong DSA foundation — 500+ problems solved and active competitive programming on Codeforces.
-
-Currently shipping **ConnectSphere**, a real-time communication platform built with MERN and Socket.IO, while preparing for SDE internships for Summer 2027.
-
-```yaml
-name:            Harshita Parsendiya
-role:            Aspiring SDE · Full-Stack Developer
-education:       B.E. Information Technology, MBM University, Jodhpur (3rd Year)
-current_build:   ConnectSphere — MERN + Socket.IO real-time platform
-dsa:             500+ problems (LeetCode) · Active on Codeforces
-open_source:     GSSoC 2026 Contributor & Ambassador
-achievements:
-  - AIR 32, IIT Bombay NEC 2025
-  - Genpact STEM Her Scholarship (4-year merit)
-  - 3x Indira Priyadarshini Award
-looking_for:     SDE Internship, Summer 2027 (PPO track) at product-based companies
-```
-
----
-
-## Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+</td>
+<td valign="top" width="25%">
 
 **Frontend**
+<br/><br/>
+![React](https://img.shields.io/badge/-React.js-2b2b40?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/-Redux%20/%20Context-2b2b40?style=flat-square&logo=redux&logoColor=764ABC)
+![HTML5](https://img.shields.io/badge/-HTML5-2b2b40?style=flat-square&logo=html5&logoColor=E34F26)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-2b2b40?style=flat-square&logo=bootstrap&logoColor=7952B3)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+</td>
+<td valign="top" width="25%">
 
-**Backend & Database**
+**Backend**
+<br/><br/>
+![Node.js](https://img.shields.io/badge/-Node.js-2b2b40?style=flat-square&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/-Express.js-2b2b40?style=flat-square&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-2b2b40?style=flat-square&logo=next.js&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-2b2b40?style=flat-square&logo=socket.io&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+</td>
+<td valign="top" width="25%">
 
-**Tools & Platforms**
+**Infra & Tools**
+<br/><br/>
+![MongoDB](https://img.shields.io/badge/-MongoDB-2b2b40?style=flat-square&logo=mongodb&logoColor=47A248)
+![Git](https://img.shields.io/badge/-Git%20&%20GitHub-2b2b40?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-2b2b40?style=flat-square&logo=postman&logoColor=FF6C37)
+![JWT](https://img.shields.io/badge/-JWT%20/%20WebRTC-2b2b40?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+</td>
+</tr>
+</table>
 
-</div>
-
----
-
-## Featured Project
-
-<div align="center">
-
-### ConnectSphere — Real-Time Communication Platform
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
-</div>
-
-A full-stack real-time chat and networking platform built on the MERN stack with Socket.IO for live messaging, presence tracking, and instant notifications.
-
-| Area | Details |
-|---|---|
-| **Frontend** | React, Tailwind CSS, responsive UI |
-| **Backend** | Node.js, Express, REST APIs |
-| **Real-time layer** | Socket.IO for bi-directional messaging |
-| **Database** | MongoDB with schema-based data modeling |
-| **Status** | In active development / deployment |
-
-> Add 2–3 more project rows here (repo link, live demo link, tech used, one-line impact) — recruiters scan this table first.
-
----
+<br/>
 
 ## Problem Solving
 
+DSA isn't a checkbox for me — it's the muscle behind every system I design. Fluent in arrays, recursion, trees, graphs, DP, and complexity analysis, with 700+ problems solved across three platforms and 50+ contests under my belt.
+
 <div align="center">
 
-![LeetCode](https://img.shields.io/badge/LeetCode-460%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![Codeforces](https://img.shields.io/badge/Codeforces-Newbie%20%7C%20Active-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
-
-<img src="https://leetcode-stats-two-lilac.vercel.app/api?username=harshiiii18" />
+<img src="https://leetcode-stats-two-lilac.vercel.app/api?username=harshiiii18&theme=dark" />
 
 </div>
 
----
+<br/>
 
-## GitHub Analytics
+## GitHub, Under the Hood
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harshiiii18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshiiii18&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshiiii18&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&count_private=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshiiii18&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" />
 
-<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshiiii18&theme=highcontrast&hide_border=true&background=0d1117" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshiiii18&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshiiii18&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshiiii18&theme=react-dark&hide_border=true&bg_color=0d1117" />
 
 <img src="https://raw.githubusercontent.com/harshiiii18/harshiiii18/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
----
+<br/>
 
-## Achievements
+## Beyond the Code
 
-- 🏅 **AIR 32** — IIT Bombay NEC 2025
-- 🎓 **Genpact STEM Her Scholarship** — 4-year merit-based award
-- 🏆 **3× Indira Priyadarshini Award**
-- 🌐 **GSSoC 2026** — Contributor & Ambassador
+- 🥇 **AIR 32** — National Entrepreneurship Challenge 2025, IIT Bombay, out of 1,000+ competing teams
+- 🎓 **Genpact STEM Her Scholar** — 4-year national merit scholarship for academic excellence in STEM
+- 🏅 **Indira Priyadarshini Award** — 3× district-level recipient across Classes 8, 10 & 12 (95.17%, 97%, 91%)
+- 🚀 **Core Member, Entrepreneurship & Innovation Cell, MBM University** — organizing hackathons and tech events for 50+ participants since Aug 2025
 
----
-
-## Let's Connect
-
-<div align="center">
-
-I'm actively looking for **SDE Internship opportunities (Summer 2027)** at product-based companies. If you're hiring or want to collaborate on open source / MERN projects, reach out.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+**Currently:** B.E. in Information Technology, M.B.M. University, Jodhpur (2024–2028) · CGPA 8.0/10
+Coursework: DSA, OOP, DBMS, Computer Networks, OS, Probability & Statistics, Linear Algebra, Discrete Mathematics
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<div align="center">
+
+### Let's build something that ships.
+
+Open to **Web Developer / SDE internship** roles where I can work on real, scalable products.
+
+<a href="mailto:harshitaparsendiya@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-harshitaparsendiya%40gmail.com-2b2b40?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
 </div>
