@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Harshita Parsendiya 👋
+# Hi, I'm Harshita Parsendiya
 
 ### Software Development Engineer | Full-Stack Developer | Competitive Programmer
 
@@ -14,19 +14,19 @@
 
 ---
 
-## 🧑‍💻 About Me
+##About Me
 
 I'm a Computer Science (IT) undergraduate at **M.B.M. University, Jodhpur**, passionate about building full-stack products and solving algorithmic problems. I enjoy architecting scalable web applications end-to-end — from secure backend systems to polished, responsive frontends.
 
-- 🎓 B.E. Computer Science (Information Technology) — GPA **8.0/10**
-- 💡 700+ problems solved across LeetCode, CodeChef & GeeksforGeeks (1600+ rating)
-- 🏆 AIR 32, National Entrepreneurship Challenge (E-Cell, IIT Bombay) — among 1,000+ teams
-- 🎗️ Genpact STEM Her Scholarship recipient (4-year, merit-based, national)
-- 🛠️ Core Member, Entrepreneurship & Innovation Cell (E-Cell), MBM University
+- B.E. Computer Science (Information Technology) — GPA **7.5/10**
+- 900+ problems solved across LeetCode, CodeChef & GeeksforGeeks (1600+ rating)
+- AIR 32, National Entrepreneurship Challenge (E-Cell, IIT Bombay) — among 1,000+ teams
+- Genpact STEM Her Scholarship recipient (4-year, merit-based, national)
+- Core Member, Entrepreneurship & Innovation Cell (E-Cell), MBM University
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -60,9 +60,9 @@ I'm a Computer Science (IT) undergraduate at **M.B.M. University, Jodhpur**, pas
 
 ---
 
-## 🛠️ Featured Projects
+## Featured Projects
 
-### 🛒 [CrazyThing — Full-Stack C2C Marketplace](#)
+### [CrazyThing — Full-Stack C2C Marketplace](#)
 A full-stack marketplace platform for buying and selling items.
 
 - Architected product listings, search & filtering, cart, and checkout with a **7-stage order lifecycle** (pending → paid → confirmed → packed → shipped → delivered), plus a seller dashboard for self-service listing management.
@@ -73,7 +73,7 @@ A full-stack marketplace platform for buying and selling items.
 
 ---
 
-### 🎯 [SmartIntern — AI Internship Matching Platform](#)
+### [SmartIntern — AI Internship Matching Platform](#)
 An AI-powered internship discovery and application-tracking platform.
 
 - Built AI-driven resume parsing, match scoring, and an application tracker with a themeable, responsive React frontend (dark/light mode, protected routes, drag-and-drop Kanban board).
@@ -83,7 +83,7 @@ An AI-powered internship discovery and application-tracking platform.
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Data Analyst Intern** — Youth Dream Foundation *(Remote)*
 `July 2026 – Sept 2026`
@@ -93,11 +93,11 @@ An AI-powered internship discovery and application-tracking platform.
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 | Achievement | Detail |
 |---|---|
-| 🧩 Competitive Programming | 700+ problems solved across LeetCode, CodeChef & GeeksforGeeks — 1600+ rating |
+| 🧩 Competitive Programming | 900+ problems solved across LeetCode, CodeChef & GeeksforGeeks — 1600+ rating |
 | 🥈 AIR 32 | National Entrepreneurship Challenge, E-Cell IIT Bombay (1,000+ teams) |
 | 🎓 Genpact STEM Her Scholarship | 4-year, merit-based national scholarship for academic excellence in STEM |
 | 🏅 Indira Priyadarshini Award | 3-time district-level academic excellence award (Classes 8, 10, 12 — 95.17%, 97%, 91%) |
@@ -105,7 +105,7 @@ An AI-powered internship discovery and application-tracking platform.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -116,11 +116,11 @@ An AI-powered internship discovery and application-tracking platform.
 
 </div>
 
-> Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub username to activate these live stat cards.
+> Replace `harshiiii18` above with your actual GitHub username to activate these live stat cards.
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
 
