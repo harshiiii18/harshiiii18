@@ -1,183 +1,132 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=HARSHITA%20PARSENDIYA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20Competitive%20Programmer&descAlignY=55&descSize=18&descColor=b8b8ff" />
+# Hi, I'm Harshita Parsendiya 👋
 
-<br/>
+### Software Development Engineer | Full-Stack Developer | Competitive Programmer
 
-<a href="mailto:harshitaparsendiya@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-0f0c29?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0f0c29?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-View%20Profile-0f0c29?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
-<a href="#"><img src="https://img.shields.io/badge/CodeChef-View%20Profile-0f0c29?style=for-the-badge&logo=codechef&logoColor=5B4638" /></a>
+[![Email](https://img.shields.io/badge/Email-harshitaparsendiya%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitaparsendiya@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](#)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](#)
 
 </div>
 
-<br/>
+---
 
-```
-> whoami
+## 🧑‍💻 About Me
 
-Full-stack developer building on the MERN stack, currently architecting
-real-time systems and trading dashboards that don't fall over under load.
-700+ DSA problems deep. Third-year IT student. Building in public.
-```
+I'm a Computer Science (IT) undergraduate at **M.B.M. University, Jodhpur**, passionate about building full-stack products and solving algorithmic problems. I enjoy architecting scalable web applications end-to-end — from secure backend systems to polished, responsive frontends.
 
-<br/>
+- 🎓 B.E. Computer Science (Information Technology) — GPA **8.0/10**
+- 💡 700+ problems solved across LeetCode, CodeChef & GeeksforGeeks (1600+ rating)
+- 🏆 AIR 32, National Entrepreneurship Challenge (E-Cell, IIT Bombay) — among 1,000+ teams
+- 🎗️ Genpact STEM Her Scholarship recipient (4-year, merit-based, national)
+- 🛠️ Core Member, Entrepreneurship & Innovation Cell (E-Cell), MBM University
 
-## Snapshot
+---
 
-<table align="center">
-<tr>
-<td align="center" width="150"><b>700+</b><br/><sub>DSA Problems Solved</sub></td>
-<td align="center" width="150"><b>50+</b><br/><sub>Contest Participations</sub></td>
-<td align="center" width="150"><b>AIR 32</b><br/><sub>NEC 2025, IIT Bombay</sub></td>
-<td align="center" width="150"><b>8.0</b><br/><sub>CGPA / 10</sub></td>
-</tr>
-</table>
+## 🚀 Tech Stack
 
-<br/>
-
-## What I Build
-
-I don't just follow tutorials — I ship things that mimic real production systems. Case in point:
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### 🟢 Zerodha — Stock Trading Platform
-**A full-stack trading dashboard built to behave like the real thing.**
-
-Users manage holdings, positions, funds, and live orders through an interactive dashboard — backed by secure JWT auth and a proper REST layer, not a toy CRUD app.
-
-**Engineering highlights**
-- Designed and shipped RESTful APIs in Express.js for portfolio & order management
-- Modeled user and portfolio data in MongoDB for fast, consistent reads
-- Wired the React frontend to the backend via Axios with clean error handling
-- Deployed frontend on Vercel, backend on Render — real infra, real deployment pipeline
-
-</td>
-<td width="40%" valign="top">
-
-**Stack**
-```
-Frontend   React.js, Bootstrap
-Backend    Node.js, Express.js
-Database   MongoDB
-Auth       JWT
-HTTP       Axios
-Deploy     Vercel + Render
-```
-
-[`View Repo →`](#) &nbsp; [`Live Demo →`](#)
-
-</td>
-</tr>
-</table>
-
-> More builds landing soon — this section grows every time I ship.
-
-<br/>
-
-## Arsenal
-
-<table align="center">
-<tr>
-<td valign="top" width="25%">
+<div align="center">
 
 **Languages**
-<br/><br/>
-![Python](https://img.shields.io/badge/-Python-2b2b40?style=flat-square&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/-C++-2b2b40?style=flat-square&logo=cplusplus&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/-JavaScript%20(ES6+)-2b2b40?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/-SQL-2b2b40?style=flat-square&logo=postgresql&logoColor=4169E1)
 
-</td>
-<td valign="top" width="25%">
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Frontend**
-<br/><br/>
-![React](https://img.shields.io/badge/-React.js-2b2b40?style=flat-square&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/-Redux%20/%20Context-2b2b40?style=flat-square&logo=redux&logoColor=764ABC)
-![HTML5](https://img.shields.io/badge/-HTML5-2b2b40?style=flat-square&logo=html5&logoColor=E34F26)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-2b2b40?style=flat-square&logo=bootstrap&logoColor=7952B3)
+**Frameworks & Libraries**
 
-</td>
-<td valign="top" width="25%">
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Backend**
-<br/><br/>
-![Node.js](https://img.shields.io/badge/-Node.js-2b2b40?style=flat-square&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/-Express.js-2b2b40?style=flat-square&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-2b2b40?style=flat-square&logo=next.js&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/-Socket.IO-2b2b40?style=flat-square&logo=socket.io&logoColor=white)
+**Databases & Tools**
 
-</td>
-<td valign="top" width="25%">
-
-**Infra & Tools**
-<br/><br/>
-![MongoDB](https://img.shields.io/badge/-MongoDB-2b2b40?style=flat-square&logo=mongodb&logoColor=47A248)
-![Git](https://img.shields.io/badge/-Git%20&%20GitHub-2b2b40?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-2b2b40?style=flat-square&logo=postman&logoColor=FF6C37)
-![JWT](https://img.shields.io/badge/-JWT%20/%20WebRTC-2b2b40?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## Problem Solving
-
-DSA isn't a checkbox for me — it's the muscle behind every system I design. Fluent in arrays, recursion, trees, graphs, DP, and complexity analysis, with 700+ problems solved across three platforms and 50+ contests under my belt.
-
-<div align="center">
-
-<img src="https://leetcode-stats-two-lilac.vercel.app/api?username=harshiiii18&theme=dark" />
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
-<br/>
+---
 
-## GitHub, Under the Hood
+## 🛠️ Featured Projects
+
+### 🛒 [CrazyThing — Full-Stack C2C Marketplace](#)
+A full-stack marketplace platform for buying and selling items.
+
+- Architected product listings, search & filtering, cart, and checkout with a **7-stage order lifecycle** (pending → paid → confirmed → packed → shipped → delivered), plus a seller dashboard for self-service listing management.
+- Implemented secure **JWT authentication** with bcrypt hashing and role-based access control on rate-limited endpoints.
+- Integrated **Razorpay** with HMAC-SHA256 signature verification for a server-authoritative checkout flow.
+
+**Tech:** React · Redux Toolkit · Node.js · Express.js · MongoDB · JWT · Razorpay · Tailwind CSS
+
+---
+
+### 🎯 [SmartIntern — AI Internship Matching Platform](#)
+An AI-powered internship discovery and application-tracking platform.
+
+- Built AI-driven resume parsing, match scoring, and an application tracker with a themeable, responsive React frontend (dark/light mode, protected routes, drag-and-drop Kanban board).
+- Structured the codebase around modular auth, matching, and notification services — designed to support future LLM-based resume parsing and email automation.
+
+**Tech:** React · Vite · Node.js · Express.js · MongoDB
+
+---
+
+## 💼 Experience
+
+**Data Analyst Intern** — Youth Dream Foundation *(Remote)*
+`July 2026 – Sept 2026`
+
+- Built web scraping scripts and integrated APIs to collect and parse JSON data from third-party endpoints, reducing manual data-entry effort for scholarship applicant records.
+- Cleaned and validated applicant datasets, structuring **500+ records** to support scholarship eligibility analysis and mentorship-program decisions.
+
+---
+
+## 🏆 Achievements
+
+| Achievement | Detail |
+|---|---|
+| 🧩 Competitive Programming | 700+ problems solved across LeetCode, CodeChef & GeeksforGeeks — 1600+ rating |
+| 🥈 AIR 32 | National Entrepreneurship Challenge, E-Cell IIT Bombay (1,000+ teams) |
+| 🎓 Genpact STEM Her Scholarship | 4-year, merit-based national scholarship for academic excellence in STEM |
+| 🏅 Indira Priyadarshini Award | 3-time district-level academic excellence award (Classes 8, 10, 12 — 95.17%, 97%, 91%) |
+| 🤝 Core Member, E-Cell MBM University | Organized hackathons & tech events with 50+ participants |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshiiii18&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&count_private=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshiiii18&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshiiii18&theme=highcontrast&hide_border=true&background=0d1117" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshiiii18&theme=react-dark&hide_border=true&bg_color=0d1117" />
-
-<img src="https://raw.githubusercontent.com/harshiiii18/harshiiii18/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
 </div>
 
-<br/>
+> Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub username to activate these live stat cards.
 
-## Beyond the Code
+---
 
-- 🥇 **AIR 32** — National Entrepreneurship Challenge 2025, IIT Bombay, out of 1,000+ competing teams
-- 🎓 **Genpact STEM Her Scholar** — 4-year national merit scholarship for academic excellence in STEM
-- 🏅 **Indira Priyadarshini Award** — 3× district-level recipient across Classes 8, 10 & 12 (95.17%, 97%, 91%)
-- 🚀 **Core Member, Entrepreneurship & Innovation Cell, MBM University** — organizing hackathons and tech events for 50+ participants since Aug 2025
-
-**Currently:** B.E. in Information Technology, M.B.M. University, Jodhpur (2024–2028) · CGPA 8.0/10
-Coursework: DSA, OOP, DBMS, Computer Networks, OS, Probability & Statistics, Linear Algebra, Discrete Mathematics
-
-<br/>
+## 📫 Let's Connect
 
 <div align="center">
 
-### Let's build something that ships.
+[![Email](https://img.shields.io/badge/Email-harshitaparsendiya%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harshitaparsendiya@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B91--9587365414-25D366?style=flat-square&logo=whatsapp&logoColor=white)](#)
 
-Open to **Web Developer / SDE internship** roles where I can work on real, scalable products.
-
-<a href="mailto:harshitaparsendiya@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-harshitaparsendiya%40gmail.com-2b2b40?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+**"Turning ideas into scalable, real-world software — one commit at a time."**
 
 </div>
