@@ -1,42 +1,91 @@
-### Harshita Parsendiya
+<div align="center">
 
-Computer Science student at M.B.M. University, Jodhpur. I build full-stack web applications and spend a fair amount of free time on competitive programming.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:0EA5E9&height=180&section=header&text=Harshita%20Parsendiya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CS%20Student%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%"/>
 
-Currently in my second year, working on projects that go a bit beyond coursework — marketplace platforms with real payment flows, matching systems with actual logic behind them, that kind of thing.
+<br>
 
-harshitaparsendiya@gmail.com · [GitHub](#) · [LinkedIn](#) · [LeetCode](#) · [CodeChef](#)
+<a href="mailto:harshitaparsendiya@gmail.com"><img src="https://img.shields.io/badge/-Email-6D28D9?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-GitHub-0EA5E9?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-LinkedIn-6D28D9?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-LeetCode-0EA5E9?style=flat-square&logo=leetcode&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-CodeChef-6D28D9?style=flat-square&logo=codechef&logoColor=white"/></a>
 
----
+</div>
 
-**What I work with**
+<br>
 
-Python, C++, JavaScript, SQL for languages. React, Redux Toolkit, Next.js, Node.js and Express on the app side, Tailwind and Bootstrap for styling, MongoDB for data. Git, Postman and Vercel/Render for the usual dev-and-ship workflow.
+### 🧭 About Me
 
----
+```yaml
+name:      Harshita Parsendiya
+role:      Full-Stack Developer
+education: B.E. Computer Science, M.B.M. University, Jodhpur
+focus:     Building end-to-end products — secure backends, clean frontends
+fun_fact:  900+ DSA problems solved, still counting
+```
 
-**Projects**
+<br>
 
-**CrazyThing** — a C2C marketplace, built solo.
-The interesting part wasn't the CRUD, it was the checkout flow — a 7-stage order lifecycle (pending → paid → confirmed → packed → shipped → delivered), Razorpay integration verified server-side with HMAC-SHA256 so payment status can't be spoofed from the client, and role-based JWT auth with rate limiting on the endpoints that matter. Sellers get their own dashboard to manage listings without me touching the database.
-`React · Redux Toolkit · Node.js · Express · MongoDB · JWT · Razorpay`
+### ⚙️ Tech Arsenal
 
-**SmartIntern** — an internship-matching platform with actual resume parsing behind it.
-Takes a resume, scores it against internship listings, and tracks applications through a drag-and-drop Kanban board. I structured the backend into separate auth, matching, and notification services early on, mostly so I could swap in an LLM-based parser later without rewriting everything.
-`React · Vite · Node.js · Express · MongoDB`
+<table width="100%">
+<tr>
+<td width="18%"><b>Languages</b></td>
+<td width="82%">
+<img src="https://skillicons.dev/icons?i=python,cpp,js" />
+</td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,bootstrap" />
+</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</td>
+</tr>
+<tr>
+<td><b>Database</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</td>
+</tr>
+<tr>
+<td><b>Tools</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" />
+</td>
+</tr>
+</table>
 
----
+<br>
 
-**Experience**
+### 🏆 Milestones
 
-*Data Analyst Intern, Youth Dream Foundation* — remote, July–Sept 2026
-Wrote scraping scripts and API integrations to pull applicant data for a scholarship program, then cleaned and validated 500+ records so the eligibility decisions could actually be trusted.
+<div align="center">
 
----
+| 🧩 | 🥈 | 🎓 | 🏅 | 🤝 |
+|:---:|:---:|:---:|:---:|:---:|
+| **900+** DSA problems · 1600+ rating | **AIR 32** — NEC, E-Cell IIT Bombay | Genpact STEM Her Scholar | 3× Indira Priyadarshini Award | Core Member, E-Cell MBM |
 
-**A few numbers**
+</div>
 
-700+ problems solved across LeetCode, CodeChef and GeeksforGeeks, rating 1600+. AIR 32 in the National Entrepreneurship Challenge run by E-Cell IIT Bombay, out of 1,000+ teams. Genpact STEM Her Scholarship recipient. Indira Priyadarshini Award three times over (classes 8, 10, 12). Currently a core member of E-Cell at MBM University, helping run hackathons for 50+ participants.
+<br>
 
----
+<div align="center">
 
-Reach out at harshitaparsendiya@gmail.com or +91-9587365414 — always happy to talk about a project or a problem.
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117" height="165"/>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6D28D9&height=100&section=footer"/>
+</div>
+
+<div align="center">
+<sub>📩 harshitaparsendiya@gmail.com &nbsp;·&nbsp; 📞 +91-9587365414</sub>
+</div>
