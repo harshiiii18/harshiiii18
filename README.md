@@ -5,10 +5,10 @@
 <br>
 
 <a href="mailto:harshitaparsendiya@gmail.com"><img src="https://img.shields.io/badge/-Email-6D28D9?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-GitHub-0EA5E9?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-LinkedIn-6D28D9?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-LeetCode-0EA5E9?style=flat-square&logo=leetcode&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-CodeChef-6D28D9?style=flat-square&logo=codechef&logoColor=white"/></a>
+<a href="https://github.com/harshiiii18"><img src="https://img.shields.io/badge/-GitHub-0EA5E9?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/harshita-parsendiya-161252334"><img src="https://img.shields.io/badge/-LinkedIn-6D28D9?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/codewith_RK/"><img src="https://img.shields.io/badge/-LeetCode-0EA5E9?style=flat-square&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/harshii18"><img src="https://img.shields.io/badge/-CodeChef-6D28D9?style=flat-square&logo=codechef&logoColor=white"/></a>
 
 </div>
 
@@ -77,15 +77,8 @@ fun_fact:  900+ DSA problems solved, still counting
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=https://github.com/harshiiii18&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/harshiiii18&theme=radical&hide_border=true&background=0D1117" height="165"/>
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6D28D9&height=100&section=footer"/>
-</div>
-
-<div align="center">
-<sub>📩 harshitaparsendiya@gmail.com &nbsp;·&nbsp; 📞 +91-9587365414</sub>
-</div>
