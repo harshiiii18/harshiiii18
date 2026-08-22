@@ -4,6 +4,7 @@
 
 <br>
 
+<a href="https://harshitaparsendiya.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-0EA5E9?style=flat-square&logo=googlechrome&logoColor=white"/></a>
 <a href="harshitaparsendiya@gmail.com"><img src="https://img.shields.io/badge/-Email-6D28D9?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/harshiiii18"><img src="https://img.shields.io/badge/-GitHub-0EA5E9?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/harshita-parsendiya-161252334"><img src="https://img.shields.io/badge/-LinkedIn-6D28D9?style=flat-square&logo=linkedin&logoColor=white"/></a>
